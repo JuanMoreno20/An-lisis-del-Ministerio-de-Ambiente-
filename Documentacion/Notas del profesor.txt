@@ -1,0 +1,29 @@
+ HAGAN EL README
+Importancia de las Cuantías en la Contratación: Al investigar, descubrirán cómo las cuantías impactan los procesos de selección y escrutinio de cada contrato, afectando la competencia, simplificación de procedimientos, racionalización de recursos, prevención de prácticas corruptas y protección de intereses públicos. ¿Eso está descrito en la introducción u objetivos?
+Aplicación de la Ciencia de Datos: La ciencia de datos les proporciona herramientas avanzadas para analizar los complejos datos de contratación pública. Técnicas como análisis estadístico, minería de datos y aprendizaje automático les permitirán desentrañar patrones, tendencias y anomalías en estos datos. ¿Eso está descrito?
+Contexto de la Contratación Pública Ambiental: ¿Cómo se contextualiza el rol de la contratación pública dentro del marco del desarrollo sostenible y la gestión ambiental en Colombia? ¿Se menciona la importancia de alinear los procesos de contratación con los objetivos ambientales nacionales e internacionales?
+
+
+
+
+Segmentación de Contratos
+Clasificar los contratos por categoría, tipo, y año usando Pandas para identificar patrones y tendencias.
+Documentación técnica:https://pandas.pydata.org/
+[Repo - Github]
+
+Detección de Contratos Atípicos
+Utilizar IQR para identificar y analizar desviaciones significativas en los contratos.
+Atípicos:[Medium - Ejemplo]
+[Analyticsvidhya - Artículo]
+
+
+Evaluación de la Transparencia y Eficiencia
+Analizar los contratos para evaluar niveles de transparencia y eficiencia, identificando áreas de mejora. Diseño de métricas.
+Documentación técnica:https://pandas.pydata.org/
+[Repo - Github]
+
+Formulación de Recomendaciones
+Sintetizar hallazgos para proponer recomendaciones que optimicen la contratación, enfocándose en la transparencia y eficiencia.
+Métodos de agrupación:[Real Python – Group by]
+Json:
+[W3-Schools]
